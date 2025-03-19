@@ -1,7 +1,3 @@
-# DEFT2013 Tâche 2 :
-
-MOTTET Valentin - FENNASSI Oussama - ALICHE Ghiles  
-
 ## Description de la tâche
 
 L'objectif de la tâche à effectué est de trouver automatiquement en fonction du titre et des instructions d'une recette s'il s'agit d'un Plat principal, une Entrée ou bien un Dessert.
